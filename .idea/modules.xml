@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DesafioControleDeFluxo/DesafioControleDeFluxo.iml" filepath="$PROJECT_DIR$/DesafioControleDeFluxo/DesafioControleDeFluxo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-DIO.iml" filepath="$PROJECT_DIR$/.idea/Java-DIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ControleDeCandidatos/ProjetoContador.iml" filepath="$PROJECT_DIR$/ControleDeCandidatos/ProjetoContador.iml" />
     </modules>
   </component>
 </project>
