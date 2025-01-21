@@ -1,4 +1,4 @@
-package ControleDeFLuxo;
+package ControleDeFLuxo.Condicionais;
 
 public class Ternario {
     public static void main(String[] args) {
