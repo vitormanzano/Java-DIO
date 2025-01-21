@@ -1,4 +1,4 @@
-package Metodos;
+package Sintaxe.Metodos;
 
 public class SmartTv {
     boolean ligada = false;

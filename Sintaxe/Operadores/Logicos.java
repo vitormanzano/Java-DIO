@@ -1,4 +1,4 @@
-package Operadores;
+package Sintaxe.Operadores;
 
 public class Logicos {
     public static void main(String[] args) {

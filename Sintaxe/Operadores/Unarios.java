@@ -1,4 +1,4 @@
-package Operadores;
+package Sintaxe.Operadores;
 
 public class Unarios {
     public static void main(String[] args) {

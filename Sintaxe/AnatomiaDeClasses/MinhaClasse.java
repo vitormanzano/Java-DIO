@@ -1,4 +1,4 @@
-package AnatomiaDeClasses;
+package Sintaxe.AnatomiaDeClasses;
 
 public class MinhaClasse {
     public static void main(String[] args) {
