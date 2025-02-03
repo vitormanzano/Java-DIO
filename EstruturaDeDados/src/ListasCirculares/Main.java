@@ -13,8 +13,6 @@ public class Main {
 
         System.out.println(minhaLista);
 
-        System.out.println(minhaLista.get(4 ));
-
     }
 
 }
