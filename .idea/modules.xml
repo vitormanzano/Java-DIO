@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/Desafio01POO/Desafio01POO.iml" filepath="$PROJECT_DIR$/Desafio01POO/Desafio01POO.iml" />
       <module fileurl="file://$PROJECT_DIR$/Desafio02POO/Desafio02POO.iml" filepath="$PROJECT_DIR$/Desafio02POO/Desafio02POO.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesafioControleDeFluxo/DesafioControleDeFluxo.iml" filepath="$PROJECT_DIR$/DesafioControleDeFluxo/DesafioControleDeFluxo.iml" />
