@@ -21,7 +21,7 @@ public class ExemploOrdenacaoSet {
             add(new Serie("That '70s show", "Comédia", 25));
         }};
 
-        //System.out.println(minhasSeriesLinked);
+        System.out.println(minhasSeriesLinked);
 
         Set<Serie> minhasSeriesTree = new TreeSet<>(minhasSeries);
 
